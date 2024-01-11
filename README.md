@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=adram99">
 
 <!--
 **adram99/adram99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
