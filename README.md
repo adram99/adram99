@@ -1,4 +1,3 @@
-### Hi there 👋
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=adram99)](https://solved.ac/adram99)
 
