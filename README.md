@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?adram99={adram99}&show_icons=true&theme={theme})](https://github.com/{adram99}/github-readme-stats)
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
 
 <!--
 **adram99/adram99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
