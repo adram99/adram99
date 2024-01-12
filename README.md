@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=98FB98&type=slice&height=150&text=Minsu%20Seo&fontColor=2e875b&fontSize=70&rotate=9&fontAlign=75&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?color=98FB98&type=slice&height=150&text=Minsu%20Seo&fontColor=2e875b&fontSize=70&rotate=9&fontAlign=75&fontAlignY=32)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=adram99)](https://solved.ac/adram99)
 
